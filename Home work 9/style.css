@@ -1,0 +1,25 @@
+.catalog-content {
+  margin: 0 auto;
+  width: 1100px;
+}
+.video {
+  display: inline-block;
+  width: 450px;
+  height: 210px;
+  background-color: white;
+  text-align: center;
+  margin-bottom: 5px;
+  padding-bottom: 30px; 
+}
+.zagolovok1 {
+  font-family: sans-serif;
+  font-size: 30px
+  font-style: bold;
+}
+.zagolovok2 {
+  font-family: sans-serif;
+  font-size: 30px
+}
+body {
+  background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1612622910_91-p-fon-lego-zelenii-143.jpg");
+}

@@ -1,0 +1,9 @@
+body {
+  background-image:url("img/spider_man.jpg");
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+h1 {
+	color:#FFF;
+}

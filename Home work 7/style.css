@@ -1,0 +1,44 @@
+.home {
+  color: black;
+  background-color: gray;
+  text-decoration: none;
+  padding: 10px;
+  margin-top: 10px; 
+}
+.about {
+  color: black;
+  background-color: gray;
+  text-decoration: none;
+  padding: 10px;
+  margin-top: 10px; 
+}
+.top {
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+.info {
+  width: 400px;
+}
+.sova {
+  border-radius: 50px
+}
+.telegram {
+  text-decoration: none;
+  color: black;
+  background-color: gray; 
+}
+.all_pages {
+  margin-top: 10px;
+  padding: 50px;
+  background-color: gray;
+}
+.footer_button {
+  text-decoration: none;
+  color: black;
+  margin: 10px;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.footer_button:hover { 
+  text-decoration: underline;
+}
